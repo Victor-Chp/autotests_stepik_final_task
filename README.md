@@ -1,1 +1,1 @@
-This project is the homework of the Stepik Automation course
+This project is the final task of the Stepik Automation course
