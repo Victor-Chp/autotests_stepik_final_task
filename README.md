@@ -1,1 +1,1 @@
-# autotests_stepik_final_task
+This project is the homework of the Stepik Automation course
